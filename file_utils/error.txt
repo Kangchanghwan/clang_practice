@@ -1,0 +1,14 @@
++------------------------------------+
+|         New File Copier v1+         
++------------------------------------+
+  usage: copy <src> <dst>             
+  usage: copy --help to see help page 
+
+error: invalid arguments
++------------------------------------+
+|         New File Copier v1+         
++------------------------------------+
+  usage: copy <src> <dst>             
+  usage: copy --help to see help page 
+
+error: invalid arguments
